@@ -1,46 +1,79 @@
-MOJTABA ATLAS
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=LINUX+%26+PYTHON+SPECIALIST;NETWORKING+%26+CYBERSECURITY;BUILDING+THE+FUTURE+WITH+CODE" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/LINUX-SPECIALIST-00FF88?style=for-the-badge&logo=linux&logoColor=white&labelColor=080808" />
-  <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-00FF88?style=for-the-badge&logo=python&logoColor=white&labelColor=080808" />
-</p>---
+<div align="center">
 
-WHO AM I?
+<img src="./banner.png" width="100%" alt="Mojtaba Atlas Banner" />
 
+<br/>
+
+[![Linux](https://img.shields.io/badge/Linux-Specialist-00ff88?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Python](https://img.shields.io/badge/Python-Developer-00ff88?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mojtaba_Atlas-161b22?style=for-the-badge&logo=github)](https://github.com/mojtobaatlas313-cmd)
+
+<br/>
+
+**LEARN • BUILD • AUTOMATE • INNOVATE**
+
+</div>
+
+---
+
+## `01` — ABOUT ME
+
+```bash
 ┌──(mojtaba㉿atlas)-[~]
 └─$ whoami
+```
 
-Mojtaba Atlas
-Linux & Python Specialist
-Networking & Cybersecurity
+I'm **Mojtaba Atlas**, a Linux and Python enthusiast focused on system administration, automation, computer networking, and cybersecurity.
 
-Welcome to my digital space!
+I enjoy understanding how technology works, exploring open-source tools, and turning ideas into practical projects.
 
-I'm Mojtaba Atlas, focused on Linux systems, Python development, networking, and cybersecurity.
+- 🐧 Linux systems and administration
+- 🐍 Python development and scripting
+- 🌐 Computer networking
+- 🔐 Cybersecurity fundamentals
+- ⚙️ Automation and open source
 
-I enjoy exploring technology, automating tasks, solving problems, and building practical projects.
+---
 
-CORE EXPERTISE
+## `02` — TECH STACK
 
-- 🐧 Linux Administration
-- 🐍 Python Development
-- 🌐 Computer Networking
-- 🔐 Cybersecurity
-- ⚙️ Automation & Scripting
-- 💻 Open Source Technologies
+<div align="center">
 
-TECHNOLOGY STACK
+### Operating Systems & Scripting
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode&theme=dark" />
-</p>DEVELOPER MINDSET
+[![Skills](https://skillicons.dev/icons?i=linux,bash,python&theme=dark)](https://skillicons.dev)
 
+### Development & Tools
+
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## `03` — WHAT I'M WORKING ON
+
+| Domain | Focus |
+|:--|:--|
+| Linux | Administration and system tools |
+| Python | Automation and practical scripts |
+| Networking | Protocols and network fundamentals |
+| Security | Learning defensive security |
+| Open Source | Exploring and building projects |
+
+---
+
+## `04` — DEVELOPER PHILOSOPHY
+
+```python
 class MojtabaAtlas:
+
     name = "Mojtaba Atlas"
-    specialties = ["Linux", "Python"]
+
     interests = [
+        "Linux",
+        "Python",
         "Networking",
         "Cybersecurity",
         "Open Source"
@@ -49,22 +82,59 @@ class MojtabaAtlas:
     def mission(self):
         return "Learn. Build. Innovate."
 
-print(MojtabaAtlas().mission())
 
-GITHUB STATISTICS
+developer = MojtabaAtlas()
+print(developer.mission())
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mojtobaatlas313-cmd&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojtobaatlas313-cmd&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>CONNECT WITH ME
+---
 
-<p align="center">
-  <a href="https://github.com/mojtobaatlas313-cmd">
-    <img src="https://img.shields.io/badge/GITHUB-MOJTABA_ATLAS-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" />
-  </a>
-</p><p align="center">
-  <code>sudo make it happen</code>
-</p><p align="center">
-  <b>MOJTABA ATLAS | KEEP BUILDING.</b>
-</p>
+## `05` — PROJECTS
+
+I believe in learning by building.
+
+Explore my repositories to see my projects, experiments, and development journey.
+
+<div align="center">
+
+[![Repositories](https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mojtobaatlas313-cmd?tab=repositories)
+
+</div>
+
+---
+
+## `06` — GITHUB
+
+<div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-MOJTABA_ATLAS-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mojtobaatlas313-cmd)
+
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-161b22?style=flat-square&logo=github)](https://github.com/mojtobaatlas313-cmd?tab=repositories)
+
+</div>
+
+---
+
+## `07` — CONNECT
+
+<div align="center">
+
+**Open to learning, collaboration, and building useful things.**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mojtobaatlas313-cmd)
+
+<br/>
+
+```bash
+sudo make it happen
+```
+
+### `MOJTABA ATLAS`
+
+**KEEP BUILDING.**
+
+<sub>© MOJTABA ATLAS • Powered by curiosity and code</sub>
+
+</div>
