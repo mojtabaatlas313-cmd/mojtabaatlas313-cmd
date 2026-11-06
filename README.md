@@ -83,18 +83,15 @@ print(me.mission())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mojtabaatlas313-cmd&show_icons=true&theme=github_dark" width="49%" alt="GitHub Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mojtabaatlas313-cmd&theme=github_dark" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabaatlas313-cmd&layout=compact&theme=github_dark" width="49%" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mojtabaatlas313-cmd&theme=github_dark" alt="Top Languages"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mojtabaatlas313-cmd&theme=github-dark-blue" width="75%" alt="GitHub Streak"/>
+<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mojtabaatlas313-cmd&theme=github_dark" alt="Profile Details"/>
 
 </div>
 
 ---
-
 ---
 
 ## `06` — CONTRIBUTION ACTIVITY
