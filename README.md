@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./banner.jpg" width="100%" alt="Mojtaba Atlas Banner" />
+<img src="./banner.png" width="100%" alt="Mojtaba Atlas Banner" />
 
 <br/>
 
