@@ -83,15 +83,17 @@ print(me.mission())
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mojtabaatlas313-cmd&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mojtabaatlas313-cmd&show_icons=true&theme=github_dark" width="49%" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabaatlas313-cmd&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabaatlas313-cmd&layout=compact&theme=github_dark" width="49%" alt="Top Languages"/>
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=mojtabaatlas313-cmd&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mojtabaatlas313-cmd&theme=github-dark-blue" width="75%" alt="GitHub Streak"/>
 
 </div>
+
+---
 
 ---
 
