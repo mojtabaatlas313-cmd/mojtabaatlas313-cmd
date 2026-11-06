@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Mojtaba Atlas Banner" />
-
+<img src="./banner.jpg" width="100%" alt="Mojtaba Atlas Banner" />
 <br/>
 
 [![Linux](https://img.shields.io/badge/Linux-Specialist-00ff88?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
